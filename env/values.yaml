@@ -13,4 +13,4 @@ cleanup:
     helm.sh/hook: pre-delete
     helm.sh/hook-delete-policy: hook-succeeded
 
-placeholder:
+placeholder: {}
